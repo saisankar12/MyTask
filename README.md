@@ -4,6 +4,8 @@
 - Coroutines
 - DataBinding
 - Model
+- Intent
+- DataParsing Using Intent
 
 ## API
 - I am using MovieDB Api
