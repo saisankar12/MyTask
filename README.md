@@ -2,7 +2,7 @@
 ## Content
 - RecyclerView
 - Coroutines
-- DstaBinding
+- DataBinding
 - Model
 
 ## API
